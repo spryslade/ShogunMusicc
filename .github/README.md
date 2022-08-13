@@ -17,7 +17,6 @@
 - ғғᴍᴘᴇɢ
 - ɴᴏᴅᴇᴊs [ɴᴏᴅᴇsᴏᴜʀᴄᴇ.ᴄᴏᴍ](https://nodesource.com/)
 - Python 3.8 or 3.9+
-- [ᴘʏᴛɢᴄᴀʟʟss](https://github.com/Telugucoders/calls)
 
 
 
