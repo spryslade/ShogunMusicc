@@ -1,8 +1,8 @@
-ʙᴇsᴛ ᴍᴜsɪᴄ sᴏᴜʀᴄᴇ ᴍᴀᴅᴇ ʙʏ  [ᴛᴇᴀᴍ ᴄᴏᴍʀᴀᴅᴇ](https://telegram.me/tamil_comrade)
+ʙᴇsᴛ ᴍᴜsɪᴄ sᴏᴜʀᴄᴇ ᴍᴀᴅᴇ ʙʏ  [ᴛᴇᴀᴍ ᴄᴏᴍʀᴀᴅᴇ](https://telegram.me/comrade_robotz)
 
 ʙᴏᴛ: [ᴍᴇᴏᴡ ᴍᴜsɪᴄ](https://telegram.me/meowmusicprobot)
 
-<p align="center"><a href="https://t.me/angelmusicrobot"><img src="https://telegra.ph/file/bb2448b6c4a377de2e32a.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/angelmusicrobot"><img src="https://telegra.ph/file/f74a96b8c6c71efd0e58e.jpg" width="300"></a></p>
 
  
 
