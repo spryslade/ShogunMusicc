@@ -80,7 +80,11 @@
             "required": true,
             "value": ""
         }
-    },
+        "START_IMG": {
+            "description": "START_IMG!)",
+            "required": true,
+            "value": ""
+       },
     "buildpacks": [
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
