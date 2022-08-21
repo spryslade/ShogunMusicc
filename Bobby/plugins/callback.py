@@ -7,11 +7,13 @@ from Bobby.config import BOT_NAME, OWNER_USERNAME, UPDATE, SUPPORT, BOT_USERNAME
 @Client.on_callback_query(filters.regex("home"))
 async def home(_, query: CallbackQuery):
     await query.edit_message_text(
-        f"""ᴡᴇʟᴄᴏᴍᴇ [{query.message.chat.first_name}](tg://user?id={query.message.chat.id})
+        f"""━━━━━━━━━━━━━━━━━━
+ʜᴇʏ ❣️{message.from_user.mention()} !
+ᴛʜɪs ɪs ᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏᴄʜᴀᴛs.
 
-ɪ ᴀᴍ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
-
-ᴜsᴇ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ [!!](https://telegra.ph/file/1bab5e1b04d56eb02e09f.jpg)""",
+ᴛʜɪꜱ ʙᴏᴛ ʜᴀꜱ ᴀ ʟᴏᴛ ᴏꜰ ꜰᴇᴀᴛᴜʀᴇꜱ ʙᴀꜱᴇᴅ ᴏɴ ᴀ.ɪ ᴀɴᴅ ʜɪɢʜ ꜱᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ ᴏꜰ ꜱᴏɴɢꜱ.
+ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴀʙᴏᴜᴛ ᴍᴇ ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ ʀᴀᴍᴘʀᴀsᴀᴛʜ.
+━━━━━━━━━━━━━━━━━━ ({START_IMG})""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -45,7 +47,7 @@ async def others(_, query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        "🗯️ sᴜᴘᴘᴏʀᴛ", url=f"https://www.google.com/url?sa=t&source=web&rct=j&url=https://t.me/love_you_bobby"),
+                        "🗯️ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/love_you_bobby"),
                     InlineKeyboardButton(
                         "🌐 ɢɪᴛʜᴜʙ", url=f"https://github.com/Love-u-bobby/MEOW-MUSIC")
                 ],
