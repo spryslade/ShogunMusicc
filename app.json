@@ -20,7 +20,7 @@
             "required": true,
             "value": "love_u_bobby"
         },
-        "ASSID": {
+        "START_IMG": {
             "description": "fill with telegram id of your assistant account",
             "required": true,
             "value": ""
@@ -80,10 +80,6 @@
             "required": true,
             "value": ""
         }
-        "START_IMG": {
-            "description": "START_IMG!)",
-            "required": true,
-            "value": ""
        },
     "buildpacks": [
     {
