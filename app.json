@@ -20,7 +20,7 @@
             "required": true,
             "value": "love_u_bobby"
         },
-        "START_IMG": {
+        "ASSID": {
             "description": "fill with telegram id of your assistant account",
             "required": true,
             "value": ""
