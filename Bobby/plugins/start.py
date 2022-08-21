@@ -26,7 +26,7 @@ TIME_DURATION_UNITS = (
 async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""━━━━━━━━━━━━━━━━━━
-ʜᴇʏ ❣️{message.from_user.mention()} [!]({START_IMG})
+ʜᴇʏ ❣️{message.from_user.mention()} 😿
 ᴛʜɪs ɪs ᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏᴄʜᴀᴛs.
 
 ᴛʜɪꜱ ʙᴏᴛ ʜᴀꜱ ᴀ ʟᴏᴛ ᴏꜰ ꜰᴇᴀᴛᴜʀᴇꜱ ʙᴀꜱᴇᴅ ᴏɴ ᴀ.ɪ ᴀɴᴅ ʜɪɢʜ ꜱᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ ᴏꜰ ꜱᴏɴɢꜱ.
