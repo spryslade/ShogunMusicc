@@ -8,7 +8,7 @@ from Bobby.config import BOT_NAME, OWNER_USERNAME, UPDATE, SUPPORT, BOT_USERNAME
 async def home(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""━━━━━━━━━━━━━━━━━━
-ʜᴇʏ ❣️{message.from_user.mention()} !
+ʜᴇʏ ❣️!
 ᴛʜɪs ɪs ᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏᴄʜᴀᴛs.
 
 ᴛʜɪꜱ ʙᴏᴛ ʜᴀꜱ ᴀ ʟᴏᴛ ᴏꜰ ꜰᴇᴀᴛᴜʀᴇꜱ ʙᴀꜱᴇᴅ ᴏɴ ᴀ.ɪ ᴀɴᴅ ʜɪɢʜ ꜱᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ ᴏꜰ ꜱᴏɴɢꜱ.
