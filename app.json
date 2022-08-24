@@ -53,12 +53,12 @@
         "SUPPORT": {
             "description": "fill with your bot support group, please fill valid username",
             "required": false,
-            "value": "COMRADE_BOTS"
+            "value": "Raiden_Shogun_Support"
         },
         "UPDATE": {
             "description": "fill with your bot update channel, please fill valid username",
             "required": false,
-            "value": "COMRADE_ROBOTZ"
+            "value": "DarkkCarnage"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
