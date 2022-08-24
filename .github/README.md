@@ -1,6 +1,6 @@
-ʙᴇsᴛ ᴍᴜsɪᴄ sᴏᴜʀᴄᴇ ᴍᴀᴅᴇ ʙʏ  [ᴛᴇᴀᴍ ᴄᴏᴍʀᴀᴅᴇ](https://telegram.me/spryslade)
+ʙᴇsᴛ ᴍᴜsɪᴄ sᴏᴜʀᴄᴇ ᴍᴀᴅᴇ ʙʏ  [sʟᴀᴅᴇ](https://telegram.me/spryslade)
 
-ʙᴏᴛ: [Raiden Music](https://telegram.me/ShogunXRobot)
+ʙᴏᴛ: [ʀᴀɪᴅᴇɴ ᴍᴜsɪᴄ](https://telegram.me/ShogunXRobot)
 
 <p align="center"><a href="https://t.me/meowmusicprobot"><img src="https://telegra.ph/file/0c45446299dd08b9d42d3.jpg" width="300"></a></p>
 
