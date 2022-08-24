@@ -1,8 +1,6 @@
 from pyrogram import Client, filters
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
 
-from Bobby.config import BOT_NAME, OWNER_USERNAME, UPDATE, SUPPORT, BOT_USERNAME
-
 
 @Client.on_callback_query(filters.regex("home"))
 async def home(_, query: CallbackQuery):
