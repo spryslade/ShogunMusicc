@@ -308,7 +308,7 @@ async def play(_, message: Message):
         
        [
             InlineKeyboardButton("🎥 ᴡᴀᴛᴄʜ", url="https://youtube.com"),
-            InlineKeyboardButton("📨 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/COMRADE_ROBOTZ"),
+            InlineKeyboardButton("📨 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/DarkkkCarnage"),
         ],[
             InlineKeyboardButton("🚫 ᴄʟᴏsᴇ", callback_data="cls"),
         ],
@@ -349,7 +349,7 @@ async def play(_, message: Message):
         
        [
             InlineKeyboardButton("🎥 ᴡᴀᴛᴄʜ", url="https://youtube.com"),
-            InlineKeyboardButton("📨 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/COMRADE_ROBOTZ"),
+            InlineKeyboardButton("📨 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/DarkkkCarnage"),
         ],[
             InlineKeyboardButton("🚫 ᴄʟᴏsᴇ", callback_data="cls"),
         ],
