@@ -2,7 +2,7 @@
 
 ʙᴏᴛ: [ᴍᴇᴏᴡ ᴍᴜsɪᴄ](https://telegram.me/meowmusicprobot)
 
-<p align="center"><a href="https://t.me/meowmusicprobot"><img src="https://telegra.ph/file/f74a96b8c6c71efd0e58e.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/meowmusicprobot"><img src="https://telegra.ph/file/0c45446299dd08b9d42d3.jpg" width="300"></a></p>
 
  
 
