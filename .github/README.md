@@ -2,7 +2,7 @@
 
 ʙᴏᴛ: [ʀᴀɪᴅᴇɴ ᴍᴜsɪᴄ](https://telegram.me/ShogunXRobot)
 
-<p align="center"><a href="https://t.me/meowmusicprobot"><img src="https://telegra.ph/file/0c45446299dd08b9d42d3.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/meowmusicprobot"><img src="https://telegra.ph/file/fe2dd94ad3b629d0bd9b4.jpg" width="300"></a></p>
 
  
 
