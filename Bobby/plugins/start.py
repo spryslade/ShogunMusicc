@@ -36,11 +36,7 @@ async def start_(client: Client, message: Message):
                         "🗂 ᴄᴏᴍᴍᴀɴᴅs", callback_data="cmds"),
                     InlineKeyboardButton(
                         "🆘 ʜᴇʟᴘ", url=f"https://t.me/{SUPPORT}")
-                ],                
-                [                    
-                    InlineKeyboardButton(
-                        "☁️ ᴏᴛʜᴇʀs", callback_data="others")
-                ]
+                ]                               
            ]
         ),
     )
