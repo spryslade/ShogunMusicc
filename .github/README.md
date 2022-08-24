@@ -1,6 +1,6 @@
 ʙᴇsᴛ ᴍᴜsɪᴄ sᴏᴜʀᴄᴇ ᴍᴀᴅᴇ ʙʏ  [ᴛᴇᴀᴍ ᴄᴏᴍʀᴀᴅᴇ](https://telegram.me/comrade_robotz)
 
-ʙᴏᴛ: [ᴍᴇᴏᴡ ᴍᴜsɪᴄ](https://telegram.me/meowmusicprobot)
+ʙᴏᴛ: [ᴍᴇᴏᴡ ᴍᴜsɪᴄ](https://telegram.me/ShogunXRobot)
 
 <p align="center"><a href="https://t.me/meowmusicprobot"><img src="https://telegra.ph/file/0c45446299dd08b9d42d3.jpg" width="300"></a></p>
 
