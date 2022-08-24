@@ -1,9 +1,9 @@
 {
-    "name": "BOBBY MEOW MUSIC",
+    "name": "Raiden Music",
     "description": "Telegram Music Bot from Team Comrade allows you to stream music trought the telegram voice chat feature !!",
-   "logo": "https://telegra.ph/file/f74a96b8c6c71efd0e58e.jpg",
+   "logo": "https://telegra.ph/file/0c45446299dd08b9d42d3.jpg",
     "keywords": ["telegram music bot", "voice chat", "pytgcalls"],
-    "repository": "https://github.com/Love-u-bobby/MEOW-MUSIC",
+    "repository": "https://github.com/spryslade/ShogunMusicc",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -13,12 +13,12 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "5448900586"
+            "value": "5490739290"
         },
         "OWNER_USERNAME": {
             "description": "fill with the bot owner username without @",
             "required": true,
-            "value": "love_u_bobby"
+            "value": "spryslade"
         },
         "ASSID": {
             "description": "fill with telegram id of your assistant account",
