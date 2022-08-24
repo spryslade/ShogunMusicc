@@ -9,7 +9,7 @@ from time import time
 from datetime import datetime
 
 from Bobby.setup.filters import command
-from Bobby.config import BOT_NAME, OWNER_USERNAME, UPDATE, SUPPORT, BOT_USERNAME
+from Bobby.config import SUPPORT
 
 START_TIME = datetime.utcnow()
 START_TIME_ISO = START_TIME.replace(microsecond=0).isoformat()
