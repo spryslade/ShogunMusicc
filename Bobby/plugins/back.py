@@ -432,7 +432,7 @@ async def cleandb(_, CallbackQuery):
 @Client.on_callback_query(filters.regex("cmds"))
 async def cbcmnds(_, query: CallbackQuery):
     await query.edit_message_text(
-        f"""**BOBBY BOT COMMANDS 💡**
+        f"""**RAIDEN BOT COMMANDS 💡**
 
 • /play (song name) 
 - For playing music
