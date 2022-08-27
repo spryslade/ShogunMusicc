@@ -13,8 +13,6 @@
 
 
 
-
-- ғғᴍᴘᴇɢ
 - ɴᴏᴅᴇᴊs [ɴᴏᴅᴇsᴏᴜʀᴄᴇ.ᴄᴏᴍ](https://nodesource.com/)
 - Python 3.8 or 3.9+
 
