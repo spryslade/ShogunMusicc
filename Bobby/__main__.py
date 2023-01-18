@@ -44,8 +44,8 @@ async def load_start():
             pass
     await app.send_message("clownizaya", "**Bobby Music Bot Started Successfully !!**")
    # Copyrighted Area
-    await client.join_chat("COMRADE_ROBOTZ")
-    await client.join_chat("COMRADE_BOTS")
+    #await client.join_chat("COMRADE_ROBOTZ")
+    #await client.join_chat("COMRADE_BOTS")
     print("[INFO]: STARTED")
     
 
